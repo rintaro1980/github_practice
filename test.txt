@@ -1,3 +1,6 @@
+ID
+�ӋC���݁F�撣�邼��
+$ git into
 ID rintaro1980
 gitのコマンドの幾つかはここでものにしたい
 
